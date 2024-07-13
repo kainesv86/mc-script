@@ -14,7 +14,8 @@
 
 3. **Copy and rename .env and Modify by your will**
    ```bash
-   cp /.env.example /.env
+   cp .env.example .env
+   vim .env
    ```
 4. **Start docker-compose**
    ```bash
